@@ -3,19 +3,32 @@
   width: 400px;
   margin-top:50px;
 }
+.five {
+  margin-left: 425px;
+  height: 300px;
+  width: 400px;
+}
+.flame {
+  margin-left: 270px;
+  height: 300px;
+  width: 400px;
+}
+tr {
+  background-color: #01084F;
+}
 .dropbtn {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #01084F;
+  color: #A73C5A;
   padding: 16px;
   font-size: 16px;
   border: none;
 }
 .dropdown {
-  position: fixed;
+  /*position: fixed */
   display: inline-block;
 }
 td {
-  min-width: 560px;
+  min-width: 810px;
 }
 .dropdown-content {
   display: none;
@@ -29,12 +42,14 @@ td {
   display: block;
 }
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #631E5F;
 }
-
 .dropdown:hover .dropdown-content {
   display: block;
 }
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: #391954;
+}
+p {
+
 }
