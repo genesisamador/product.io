@@ -1,0 +1,40 @@
+.fun {
+  height: 300px;
+  width: 400px;
+  margin-top:50px;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.dropdown {
+  position: fixed;
+  display: inline-block;
+}
+td {
+  min-width: 560px;
+}
+.dropdown-content {
+  display: none;
+  background-color: #f1f1f1;
+  min-width: 160px;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
