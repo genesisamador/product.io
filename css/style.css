@@ -4,7 +4,7 @@
   margin-top:50px;
 }
 .five {
-  margin-left: 425px;
+  margin-left: 405px;
   height: 300px;
   width: 400px;
 }
@@ -13,12 +13,9 @@
   height: 300px;
   width: 400px;
 }
-tr {
-  background-color: #01084F;
-}
 .dropbtn {
-  background-color: #01084F;
-  color: #A73C5A;
+  background-color: #C65176;
+  color: white;
   padding: 16px;
   font-size: 16px;
   border: none;
@@ -32,24 +29,43 @@ td {
 }
 .dropdown-content {
   display: none;
-  background-color: #f1f1f1;
+  background-color: #5B3158;
   min-width: 160px;
 }
 .dropdown-content a {
-  color: black;
+  color: white;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 .dropdown-content a:hover {
-  background-color: #631E5F;
+  background-color: #F9A293;
 }
 .dropdown:hover .dropdown-content {
   display: block;
 }
 .dropdown:hover .dropbtn {
-  background-color: #391954;
+  background-color: #F95473;
 }
-p {
-
+.stan {
+  height: 500px;
+  width: 650px;
+}
+.s {
+  text-align: center;
+}
+.f {
+  font-family: 'Solway', serif;
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: #212B5E;
+}
+.star {
+  width: 460px;
+  height: 130px;
+}
+.marg {
+  margin-left: 20px
 }
