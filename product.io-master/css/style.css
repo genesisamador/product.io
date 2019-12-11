@@ -1,0 +1,78 @@
+.fun {
+  height: 300px;
+  width: 400px;
+  margin-top:50px;
+}
+.five {
+  margin-left: 405px;
+  height: 300px;
+  width: 400px;
+}
+.flame {
+  margin-left: 270px;
+  height: 300px;
+  width: 400px;
+}
+.dropbtn {
+  background-color: #C65176;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.dropdown {
+  /*position: fixed */
+  display: inline-block;
+}
+td {
+  min-width: 810px;
+}
+.dropdown-content {
+  display: none;
+  background-color: #5B3158;
+  min-width: 160px;
+}
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {
+  background-color: #F9A293;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:hover .dropbtn {
+  background-color: #F95473;
+}
+.stan {
+  height: 500px;
+  width: 650px;
+}
+.s {
+  text-align: center;
+}
+.f {
+  font-family: 'Solway', serif;
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: #212B5E;
+}
+.star {
+  width: 460px;
+  height: 130px;
+}
+.marg {
+  margin-left: 20px
+}
+.adven {
+  height: 500px;
+  width: 700px;
+}
+.ken {
+  text-align: center;
+}
